@@ -1,6 +1,6 @@
 # jp01-epicsrn021
 
-Deployed at: http://jpa01-epicsrn021.dokku-10.cs.ucsb.edu/
+Deployed at: https://jpa01-epicsrn021.dokku-10.cs.ucsb.edu/
 
 
 # About this repo
