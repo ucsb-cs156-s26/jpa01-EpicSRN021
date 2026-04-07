@@ -1,4 +1,4 @@
-# jp01-epicsrn021
+# jp01-EpicSRN021
 
 Deployed at: https://jpa01-epicsrn021.dokku-10.cs.ucsb.edu/
 
